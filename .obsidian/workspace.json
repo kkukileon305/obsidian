@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル 2.md",
+                "file": "interviews/위로드엑스 추가 질문.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル 2"
+              "title": "위로드엑스 추가 질문"
             }
           }
         ]
@@ -164,28 +164,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5001b7ec247357f",
+  "active": "b2026b8512c3882a",
   "lastOpenFiles": [
-    "無題のファイル.md",
-    "無題のファイル 1.md",
-    "無題のファイル 2.md",
-    "sounds.md",
+    "interviews",
+    "old/無題のファイル.md",
+    "interviews/위로드엑스 추가 질문.md",
+    "old",
+    "old/無題のファイル 1.md",
+    "old/sounds.md",
     "無題のフォルダ/웹 이력서 프로젝트.md",
-    "study.md",
-    "開発日記.md",
-    "Pasted image 20241121150428.png",
-    "Pasted image 20241120155111.png",
+    "old/study.md",
+    "old/開発日記.md",
+    "old/Pasted image 20241121150428.png",
+    "old/Pasted image 20241120155111.png",
     "履歴書.md",
     "면접.md",
     "無題のフォルダ",
-    "Pasted image 20241120155236.png",
-    "Pasted image 20241120155205.png",
-    "Pasted image 20241120155142.png",
-    "Pasted image 20241120155040.png",
-    "Pasted image 20241111204733.png",
-    "Pasted image 20241105141535.png",
-    "Pasted image 20241104142234.png",
-    "Pasted image 20241103054058.png",
+    "old/Pasted image 20241120155236.png",
+    "old/Pasted image 20241120155205.png",
+    "old/Pasted image 20241120155142.png",
+    "old/Pasted image 20241120155040.png",
+    "old/Pasted image 20241111204733.png",
+    "old/Pasted image 20241105141535.png",
+    "old/Pasted image 20241104142234.png",
+    "old/Pasted image 20241103054058.png",
     "お仕事/開発日記.md",
     "VTuber生活/自己紹介.md",
     "お仕事/履歴書.md",
