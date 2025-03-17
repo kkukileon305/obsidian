@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f76093b0693b673e",
+        "id": "c3b1e6698c98bbb4",
         "type": "tabs",
         "children": [
           {
-            "id": "a5001b7ec247357f",
+            "id": "391d268157abac2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interviews/위로드엑스 추가 질문.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "위로드엑스 추가 질문"
+              "title": "新規タブ"
             }
           }
         ]
@@ -175,8 +171,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6fb2c256eee0455a",
+  "active": "391d268157abac2b",
   "lastOpenFiles": [
+    "interviews/위로드엑스 추가 질문.md",
     "sounds.md",
     "old/開発日記.md",
     "old/無題のファイル 1.md",
@@ -194,7 +191,6 @@
     "old/Pasted image 20241104142234.png",
     "old/Pasted image 20241103054058.png",
     "old",
-    "interviews/위로드엑스 추가 질문.md",
     "interviews",
     "無題のフォルダ/웹 이력서 프로젝트.md",
     "無題のファイル 2.md",
