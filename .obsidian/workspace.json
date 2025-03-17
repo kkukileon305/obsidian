@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interviews/위로드엑스 추가 질문.md",
+                "file": "interviews/면접 준비.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "위로드엑스 추가 질문"
+              "title": "면접 준비"
             }
           }
         ]
@@ -178,10 +178,11 @@
   },
   "active": "a5001b7ec247357f",
   "lastOpenFiles": [
+    "old/study.md",
+    "interviews/면접 준비.md",
+    "Untitled",
     "old/開発日記.md",
     "old/無題のファイル.md",
-    "interviews/위로드엑스 추가 질문.md",
-    "old/study.md",
     "sounds.md",
     "old/無題のファイル 1.md",
     "old/sounds.md",
