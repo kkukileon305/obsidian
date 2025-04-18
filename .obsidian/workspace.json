@@ -35,7 +35,8 @@
               "title": "無題のファイル"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,10 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "391d268157abac2b",
+  "active": "5fc646bec9de9309",
   "lastOpenFiles": [
-    "無題のファイル.md",
     "interviews/면접 준비.md",
+    "無題のファイル.md",
     "Pasted image 20250321183543.png",
     "interviews/위로드엑스 추가 질문.md",
     "sounds.md",
